@@ -1,0 +1,2 @@
+This is what we know about the avacado : Please read the help files on Executpm Policies. About_Execution_Policies - PowerShell | Microsoft Docs There is little reason in normal operation to use an EP of unrestricted. RemoteSigned is the default. You host should be set as the most restricted for yourself or your org. You can run a PowerShell session/script using a different EP. EP is not a security boundary..
+Created on 1712041471463
